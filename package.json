@@ -5,7 +5,7 @@
   "main": "L1-CreatingServer.js",
   "scripts": {
   "start": "node npm install --save-dev nodemon",
-  "dev": "nodemon L6-serverinexpress.js"
+  "dev": "nodemon L8-RouteParameters.js"
 
 },
   "keywords": [],
